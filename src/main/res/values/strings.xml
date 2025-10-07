@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Assignment Final</string>
+    <string name="your_score">Your score</string>
+    <string name="feedback">Feedback</string>
+    <string name="review">Review</string>
+    <string name="restart">Restart</string>
+</resources>

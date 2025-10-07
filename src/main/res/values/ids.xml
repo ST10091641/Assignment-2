@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="txtDescription" type="id" />
+    <item name="btnStart" type="id" />
+    <item name="txtQuestion" type="id" />
+    <item name="btnTrue" type="id" />
+    <item name="btnFalse" type="id" />
+    <item name="btnNext" type="id" />
+    <item name="txtScore" type="id" />
+    <item name="txtPersonalFeedback" type="id" />
+    <item name="btnReview" type="id" />
+    <item name="btnRestart" type="id" />
+    <item name="reviewScroll" type="id" />
+    <item name="reviewContainer" type="id" />
+</resources>
